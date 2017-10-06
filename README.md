@@ -1,0 +1,2 @@
+# AgueroRojo-obstacles.md
+Obstacles 
